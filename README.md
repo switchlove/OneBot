@@ -22,8 +22,12 @@ My AIO Discord Bot
 * ban @USERNAME REASON - Bans the mentioned user.
 * unban USERID - Unbans the given user ID.
 * bans - Shows list of banned users and a count. 
+
+### Server Owner Commands (Automatic Lookup of Owner)
+* setup - Creates needed channels/roles/permissions for the bot. 
   
 ## ToDo
 - [x] Sharding Support
+- [ ] Sharding Tests
 - [ ] Finish Adding Existing Functions
 - [ ] Code Cleanup
