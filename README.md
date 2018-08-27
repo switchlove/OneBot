@@ -20,7 +20,6 @@ My AIO Discord Bot
 * ping - Shows the latency of the bot and the API.
 * uptime - Shows the uptim of the bot. 
 * ban @USERNAME REASON - Bans the mentioned user.
-* unban USERID - Unbans the given user ID.
 * bans - Shows list of banned users and a count. 
 
 ### Server Owner Commands (Automatic Lookup of Owner)
