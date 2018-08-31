@@ -18,7 +18,7 @@ My AIO Discord Bot
   
 ### Administrator Commands (Accepted Role Names: Admin, Admins, Administrator, Administrators)
 * ping - Shows the latency of the bot and the API.
-* uptime - Shows the uptim of the bot. 
+* uptime - Shows the uptime of the bot. 
 * ban @USERNAME REASON - Bans the mentioned user.
 * bans - Shows list of banned users and a count. 
 
